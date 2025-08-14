@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Moon Beam Cafe</title>
+    <title>Moon Cafe</title>
     <style>
         
         * {
@@ -859,4 +859,5 @@
 
     
 </body>
+
 </html>
